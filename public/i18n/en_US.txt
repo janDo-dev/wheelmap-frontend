@@ -211,7 +211,7 @@ msgstr "You are offline."
 
 #: src/lib/NativeAppStrings.ts:12
 msgid "To add photos to places, camera access is needed."
-msgstr ""
+msgstr "To add photos to places, camera access is needed."
 
 #: src/app/PlaceDetailsData.tsx:300
 #, javascript-format
@@ -470,11 +470,11 @@ msgstr ""
 
 #: src/components/MappingEvents/MappingEventsToolbar.tsx:39
 msgid "Learn how to organize a mapping event"
-msgstr ""
+msgstr "Learn how to organize a mapping event"
 
 #: src/components/MappingEvents/MappingEventsToolbar.tsx:41
 msgid "https://news.wheelmap.org/en/organize-a-mapping-event/"
-msgstr ""
+msgstr "https://news.wheelmap.org/en/organize-a-mapping-event/"
 
 #: src/components/Onboarding/Onboarding.tsx:42
 msgid "Help out by marking places!"
@@ -620,6 +620,11 @@ msgid ""
 "\n"
 "Find more info here: ${ url }"
 msgstr ""
+"Hi,\n"
+"\n"
+"Help us out and join the ‘${ eventName }’ mapping event!\n"
+"\n"
+"Find more info here: ${ url }"
 
 #: src/components/MappingEvents/Statistics.tsx:25
 msgid "Mapping Event Numbers"
